@@ -1,0 +1,11 @@
+/home/users/bsc/itaybens/Desktop/SPL 3 Itay And Tom/314645284_209402833/client/src/main/java/bgu/spl/net/api/MessageEncoderDecoder.java
+/home/users/bsc/itaybens/Desktop/SPL 3 Itay And Tom/314645284_209402833/client/src/main/java/bgu/spl/net/impl/tftp/TftpProtocolClient.java
+/home/users/bsc/itaybens/Desktop/SPL 3 Itay And Tom/314645284_209402833/client/src/main/java/bgu/spl/net/api/MessagingProtocol.java
+/home/users/bsc/itaybens/Desktop/SPL 3 Itay And Tom/314645284_209402833/client/src/main/java/bgu/spl/net/impl/tftp/TftpClient.java
+/home/users/bsc/itaybens/Desktop/SPL 3 Itay And Tom/314645284_209402833/client/src/main/java/bgu/spl/net/impl/tftp/ReadDataFileClient.java
+/home/users/bsc/itaybens/Desktop/SPL 3 Itay And Tom/314645284_209402833/client/src/main/java/bgu/spl/net/impl/tftp/SharedState.java
+/home/users/bsc/itaybens/Desktop/SPL 3 Itay And Tom/314645284_209402833/client/src/main/java/bgu/spl/net/impl/echo/EchoClient.java
+/home/users/bsc/itaybens/Desktop/SPL 3 Itay And Tom/314645284_209402833/client/src/main/java/bgu/spl/net/impl/echo/EchoProtocol.java
+/home/users/bsc/itaybens/Desktop/SPL 3 Itay And Tom/314645284_209402833/client/src/main/java/bgu/spl/net/impl/tftp/TftpEncoderDecoderClient.java
+/home/users/bsc/itaybens/Desktop/SPL 3 Itay And Tom/314645284_209402833/client/src/main/java/bgu/spl/net/impl/echo/LineMessageEncoderDecoder.java
+/home/users/bsc/itaybens/Desktop/SPL 3 Itay And Tom/314645284_209402833/client/src/main/java/bgu/spl/net/impl/tftp/WriteDataFileClient.java
